@@ -1,6 +1,4 @@
-Here’s your **GitHub README rewritten in first-person narrative**, showing you’ve completed the courses:
-
-```markdown
+`markdown
 # 🚀 Professional Development Learning Path
 
 ## 🌟 Overview
@@ -58,4 +56,4 @@ This journey has laid a strong foundation for my career, and I am excited to:
 ⭐ *This milestone marks the beginning of my professional journey, and I am ready to take on new opportunities with confidence.*
 ```
 
-If you'd like, I can also customize this README with your **specific course names, tools you used, or projects you completed** to make it even stronger for your portfolio.
+
