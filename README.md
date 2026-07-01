@@ -1,4 +1,4 @@
-`markdown
+
 # 🚀 Professional Development Learning Path
 
 ## 🌟 Overview
